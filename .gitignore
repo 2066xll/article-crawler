@@ -1,0 +1,35 @@
+# Virtual Environment
+.venv/
+
+# IDE
+.idea/
+.vscode/
+
+# Output directories
+output/
+output_test/
+output_100/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Logs
+logs/
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Test reports
+test_report_*.txt
+
+# Environment variables
+.env
+.env.local
+.env.*.local
+
+# Node.js (if any)
+node_modules/
+package-lock.json
